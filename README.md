@@ -5,4 +5,4 @@ Jogo "FutAvengers", usando a biblioteca Pyxel (Liguagem Python). Baseado nas mec
 
 <h6>Criado por: Sávio Santos e Brenoly Porto.</h6>
 
-![Vídeo do jogo] (https://github.com/SavioSantos0808/futavengers/blob/master/FutAvengers%20-%20V1/FutAvengers.gif)
+![Vídeo do jogo](https://github.com/SavioSantos0808/futavengers/blob/master/FutAvengers%20-%20V1/FutAvengers.gif)
