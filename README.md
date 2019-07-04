@@ -4,3 +4,5 @@ Jogo "FutAvengers", usando a biblioteca Pyxel (Liguagem Python). Baseado nas mec
 <p>Projeto requerido na Disciplina de Programação 1 - Bacharelado em Engenharia de Software (1º período).</p>
 
 <h6>Criado por: Sávio Santos e Brenoly Porto.</h6>
+
+![Vídeo do jogo] ()
