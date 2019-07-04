@@ -1,6 +1,14 @@
 Linguagem de Programação: Python.
 Bibliotecas: Pyxel(Jogo) e Pygame(Rodar som).
 
+FutAvengers pode ser jogado por 2 jogadores, usando o teclado.
+O jogador do lado esquerdo tem os botões de movimentação W (cima), A (esquerda), D (direita) e S (baixo).
+O jogador do lado direito tem os botões de movimentação - setas padrão - UP (cima), LEFT (esquerda), RIGHT (direita) e DOWN (baixo).
+
+A música é do início do filme de Guardiões da Galáxia, porém na sonoridade 8-bit. Usamos o Pygame para isso, pois no Pyxel é 
+necessário criar a música pela sua ferramenta, Pyxel Editor.
+
+
 O jogo tem 2 arquivos principais. 
 O primeiro (FutAvengers-sem-Sprite), roda o jogo sem os sprites e a mecânica do jogo está razoável.
 O segundo (FutAvengers-sem-Sprite), roda o jogo com os sprites, porém a mecânica não funcionou 
