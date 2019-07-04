@@ -1,0 +1,26 @@
+Linguagem de Programação: Python.
+Bibliotecas: Pyxel(Jogo) e Pygame(Rodar som).
+
+O jogo tem 2 arquivos principais. 
+O primeiro (FutAvengers-sem-Sprite), roda o jogo sem os sprites e a mecânica do jogo está razoável.
+O segundo (FutAvengers-sem-Sprite), roda o jogo com os sprites, porém a mecânica não funcionou 
+como o esperado.
+
+A colisão necessita de modificações. Um dos erros a consertar é o caso em que 
+o jogador se movimente mais rápido que a bola. 
+Ele consegue passar pro dentro dela, logo cria assim um movimento inesperado.
+
+O jogo possue 3 telas:
+
+Primeira tela: Possue o nome do jogo na parte superior. Centralizado, os personagens 
+jogáveis a escolher. Abaixo, um texto interativo dizendo o que o usuário deve fazer.
+Mecânica: sem erros inesperados, ações previstas todas funcionando corretamente.
+
+Segunda tela: Na parte superior esquerda tem o nome do jogo, na parte superior direita tem 
+a tela de placar (5 gols acabam o jogo). Centralizado possui o campo, a bola e os jogadores.
+Na parte inferior fica a torcida - uma animação dos vingadores balançando os braços.
+
+Terceira tela: Na parte superior é mostrado o placar final do jogo. Na parte inferior possuem 2 textos 
+mostrando comandos a serem digitados para finalizar o jogo ou jogar novamente.
+
+Nota.: É necessário ainda mais melhorias no jogo, principalmente na mecânica da partida.
